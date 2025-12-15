@@ -1,0 +1,4 @@
+torch>=2.0.0
+torchaudio>=2.0.1
+matplotlib>=3.7.0
+sounddevice>=0.4.9
